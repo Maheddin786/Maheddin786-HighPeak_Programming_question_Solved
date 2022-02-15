@@ -1,6 +1,6 @@
 # Maheddin786-HighPeak_Programming_question_Solved
 
-**The execution of program video is uploaded in the repository **
+**The execution of program video is uploaded in the repository**
 
 **[FULL VIDEO] The drive link of me executing code by sharing the screen. Click the below link to find the video.**
 
