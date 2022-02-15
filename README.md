@@ -40,4 +40,4 @@ Usage of any libraries provided by the language or the framework used is restric
 ***************************************************************************************************************************************
 
 
-Have uploaded Ipynb file and video to this repository
+Have uploaded Ipynb file and video link to this repository
